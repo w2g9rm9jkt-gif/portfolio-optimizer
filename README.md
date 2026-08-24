@@ -1,6 +1,6 @@
 # Portfolio Optimizer
 
-Implémentation de l'optimisation moyenne-variance de Markowitz sur un univers
-de 30 actions, avec évaluation out-of-sample face à un portefeuille equal-weight.
+Mean-variance (Markowitz) portfolio optimization on a 30-stock CAC 40 universe,
+evaluated out-of-sample against an equal-weight benchmark.
 
-En cours de construction.
+Work in progress.
